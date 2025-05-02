@@ -1,0 +1,17 @@
+{
+  "name": "trabalho4lp",
+  "version": "1.0.0",
+  "description": "Pietra Baptista Bertalli, Bruno Santos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}

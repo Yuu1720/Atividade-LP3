@@ -1,1 +1,1 @@
-# Atividade-LP3
+Alunos: Pietra Baptista Bertalli e Bruno Santos 
